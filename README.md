@@ -14,7 +14,9 @@ Over the next 30 days, I will cover topics that are essential for every aspiring
 - 🐍 **Python** – Data analysis with Pandas, NumPy, Matplotlib, Seaborn, and more  
 - 🛢️ **MySQL** – Querying and managing structured data efficiently  
 - 📊 **Power BI** – Building interactive dashboards and business insights  
-- 🌐 **Web Scraping** – Extracting useful data from the web for analysis  
+- 🌐 **Web Scraping** – Extracting useful data from the web for analysis
+- 🤖 **Machine Learning** – Supervised/unsupervised learning, scikit-learn, model evaluation
+- 📑 **Excel** – Advanced formulas, pivot tables, VBA macros, data visualization 
 
 Each day, I will upload a **new post/PDF** that summarizes what I learned, along with examples and insights.  
 
